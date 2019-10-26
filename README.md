@@ -13,7 +13,7 @@
 
 ### Modules
 #### `server.js`
-##### Exported Values and Methods
+##### Exported Values and Methods 
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
