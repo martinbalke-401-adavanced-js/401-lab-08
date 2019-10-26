@@ -1,15 +1,15 @@
-# LAB - 07
+# LAB - 08
 
-## Express
+## Express Routing & Connected API
 
 ### Author: Martin Balke
 
 ### Links and Resources
-* [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-07/pull/1)
-* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-07
+* [submission PR]()
+* [travis]()
 
 #### Documentation
-* [api docs](http://localhost:3100/api-docs) (API servers)
+* [api docs]()
 
 ### Modules
 #### `server.js`
