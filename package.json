@@ -12,10 +12,11 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Martin Balke",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "eslint": "^6.6.0",
     "express": "^4.17.1",
     "jest": "^24.8.0",
     "mongodb-memory-server": "^5.1.5",
