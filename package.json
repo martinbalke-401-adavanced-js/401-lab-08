@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
+    "lint": "eslint *.**js --fix",
     "test": "jest --verbose",
     "test-watch": "jest --watchAll --verbose"
   },

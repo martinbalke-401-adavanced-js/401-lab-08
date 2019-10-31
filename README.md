@@ -34,7 +34,7 @@ Usage Notes or examples
   
 #### Tests
 * How do you run tests? NPM Test
-* What assertions were made? All crud operations work on all routes
+* What assertions were made? 
 
 #### UML
 Link to an image of the UML for your application and response to events
